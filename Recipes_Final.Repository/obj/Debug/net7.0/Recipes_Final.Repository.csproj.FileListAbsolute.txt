@@ -1,0 +1,75 @@
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.deps.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfoInputs.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfo.cs
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CopyComplete
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\refint\Recipes_Final.Repository.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\ref\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.deps.json
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CopyComplete
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\refint\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\ref\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.deps.json
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\refint\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\ref\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Last\Recipes_Final.ConsoleApp\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_.C387BC4E.Up2Date
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.deps.json
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_.C387BC4E.Up2Date
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\refint\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.Repository\obj\Debug\net7.0\ref\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.deps.json
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\bin\Debug\net7.0\Recipes_Final.Model.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_.C387BC4E.Up2Date
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\refint\Recipes_Final.Repository.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\Recipes_Final.Repository.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.Repository\obj\Debug\net7.0\ref\Recipes_Final.Repository.dll

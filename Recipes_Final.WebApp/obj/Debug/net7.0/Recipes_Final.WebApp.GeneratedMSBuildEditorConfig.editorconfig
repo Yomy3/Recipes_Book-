@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Recipes_Final.WebApp
+build_property.RootNamespace = Recipes_Final.WebApp
+build_property.ProjectDir = D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Categories/CategoryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Categories/CategoryDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Categories/CategoryRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeVJldHJpZXZlQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Categories/CategoryUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeVVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Difficulties/DifficultyCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0aWVzXERpZmZpY3VsdHlDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Difficulties/DifficultyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0aWVzXERpZmZpY3VsdHlEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Difficulties/DifficultyRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0aWVzXERpZmZpY3VsdHlSZXRyaWV2ZUFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Difficulties/DifficultyUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0aWVzXERpZmZpY3VsdHlVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Favorites/Favorite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmF2b3JpdGVzXEZhdm9yaXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Ingredients/IngredientCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudHNcSW5ncmVkaWVudENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Ingredients/IngredientDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudHNcSW5ncmVkaWVudERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Ingredients/IngredientRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudHNcSW5ncmVkaWVudFJldHJpZXZlQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Ingredients/IngredientUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudHNcSW5ncmVkaWVudFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Measures/MeasureCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZXNcTWVhc3VyZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Measures/MeasureDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZXNcTWVhc3VyZURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Measures/MeasureRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZXNcTWVhc3VyZVJldHJpZXZlQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Measures/MeasureUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZXNcTWVhc3VyZVVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Posts/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdHNcUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeIgredientsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVJZ3JlZGllbnRzRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeIngredientLine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVJbmdyZWRpZW50TGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeIngredientsCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVJbmdyZWRpZW50c0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeIngredientsUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVJbmdyZWRpZW50c1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVSZXRyaWV2ZUFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipesRetrieveAllByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVzUmV0cmlldmVBbGxCeUNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Recipes/RecipeUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xSZWNpcGVVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Users/UserCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Users/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Users/UserLogout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckxvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Users/UserRetrieveAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlclJldHJpZXZlQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01 Programming/03 Proyecto Final de las recetas\, trabajo offline/Ultima Actualización/Project in Git/Recipes_Final.WebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rwe4q5d3q5

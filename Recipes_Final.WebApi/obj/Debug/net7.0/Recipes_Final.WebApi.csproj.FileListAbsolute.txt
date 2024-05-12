@@ -1,0 +1,65 @@
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.WebApi.exe
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.WebApi.deps.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.WebApi.runtimeconfig.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.WebApi.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.WebApi.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Model.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Repository.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Service.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Service.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Model.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\bin\Debug\net7.0\Recipes_Final.Repository.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfoInputs.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfo.cs
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Recipes_Final.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Recipes_Final.WebApi.props
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recipes_Final.WebApi.props
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recipes_Final.WebApi.props
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\scopedcss\bundle\Recipes_Final.WebApi.styles.css
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.CopyComplete
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\refint\Recipes_Final.WebApi.dll
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.pdb
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.genruntimeconfig.cache
+C:\Users\35193\Desktop\Proyecto Final de las Recetas\Proyect C#\Recipes_Final.ConsoleApp\Recipes_Final.WebApi\obj\Debug\net7.0\ref\Recipes_Final.WebApi.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\refint\Recipes_Final.WebApi.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project on Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.pdb
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.AssemblyReference.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfoInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.AssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.csproj.CoreCompileInputs.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\refint\Recipes_Final.WebApi.dll
+D:\01 Programming\03 Proyecto Final de las recetas, trabajo offline\Ultima Actualización\Project in Git\Recipes_Final.WebApi\obj\Debug\net7.0\Recipes_Final.WebApi.pdb
